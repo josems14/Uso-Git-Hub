@@ -5,6 +5,7 @@ public class Adolfo {
         System.out.println("Ejercicio 1 JuezLTI");
         System.out.println("Ejercicio 2 JuezLTI");
         System.out.println("Ejercicio 3 JuezLTI");
+        System.out.println("Ejercicio 4 JuezLTI");
         
     }
     
